@@ -1,0 +1,6 @@
+﻿city,name,address,postal_code,latitude,longitude,open_weekend,open_holidays,open_time,close_time,fee_per_hour,cashless_payment,ev_charging,total_spots,source_url
+München,Tiefgarage Neue Hopfenpost ,"Hopfenstraße 6, 80335 München",80335,,,True,True,0,24,0.0,False,-,583,https://www.mein-contipark.de/parkplatz-finden/parken-in-muenchen/tiefgarage-neue-hopfenpost-muenchen--ci3cp1124056
+München,Tiefgarage Hauptbahnhof Süd P4,"Senefelderstraße, 80336 München",80336,,,True,True,0,24,3.0,False,-,242,https://www.mein-contipark.de/parkplatz-finden/parken-in-muenchen/tiefgarage-hauptbahnhof-sued-p4-muenchen--ci3cp1124290
+München,Tiefgarage Stachus ,"Herzog-Wilhelm-Straße 11, 80331 München",80331,,,True,True,0,24,0.0,False,-,700,https://www.mein-contipark.de/parkplatz-finden/parken-in-muenchen/tiefgarage-stachus-muenchen--ci3cp1124416
+München,Tiefgarage Oberanger ,"Oberanger 27, 80331 München",80331,,,True,True,0,24,0.0,False,0,423,https://www.mein-contipark.de/parkplatz-finden/parken-in-muenchen/tiefgarage-oberanger-muenchen--ci3cp1124417
+München,Tiefgarage Marienplatz,"Rindermarkt 16, 80331 München",80331,,,True,True,0,24,0.0,True,0,265,https://www.mein-contipark.de/parkplatz-finden/parken-in-muenchen/tiefgarage-marienplatz-muenchen--ci3cp1124222
